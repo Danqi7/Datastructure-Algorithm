@@ -39,7 +39,7 @@ vector<string> generateParenthesis(int n)
 
 int main()
 {
-	vector<string> p = generateParenthesis(2);
+	vector<string> p = generateParenthesis(3);
 
 	for (int i = 0; i < p.size(); i++)
 	{
